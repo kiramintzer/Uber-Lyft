@@ -1,0 +1,31 @@
+Cities,Average Cost There,Average Cost Back,Price Difference,Company
+"New York 
+to 
+Scarsdale",126.71428571428571,67.85714285714285,58.85714285714286,Lyft
+"Ann Arbor 
+to 
+Bloomfield Hills",65.71428571428572,60.714285714285715,5.000000000000007,Lyft
+"Miami 
+to 
+Ft Lauderdale",44.285714285714285,42.142857142857146,2.142857142857139,Lyft
+"Chicago 
+to 
+Highland Park",42.142857142857146,44.857142857142854,-2.714285714285708,Lyft
+"Nashville 
+to 
+Clarksville",63.142857142857146,60.0,3.142857142857146,Lyft
+"New York 
+to 
+Scarsdale",131.66666666666666,65.0,66.66666666666666,Uber
+"Ann Arbor 
+to 
+Bloomfield Hills",65.66666666666667,57.0,8.666666666666671,Uber
+"Miami 
+to 
+Ft Lauderdale",42.333333333333336,45.0,-2.6666666666666643,Uber
+"Chicago 
+to 
+Highland Park",43.0,43.0,0.0,Uber
+"Nashville 
+to 
+Clarksville",62.666666666666664,46.0,16.666666666666664,Uber
